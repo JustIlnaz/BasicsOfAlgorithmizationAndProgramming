@@ -1,0 +1,16 @@
+C:\Users\202323\source\repos\GameDev1\GameDev1\bin\Debug\GameDev1.exe.config
+C:\Users\202323\source\repos\GameDev1\GameDev1\bin\Debug\GameDev1.exe
+C:\Users\202323\source\repos\GameDev1\GameDev1\bin\Debug\GameDev1.pdb
+C:\Users\202323\source\repos\GameDev1\GameDev1\obj\Debug\GameDev1.csproj.AssemblyReference.cache
+C:\Users\202323\source\repos\GameDev1\GameDev1\obj\Debug\GameDev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\202323\source\repos\GameDev1\GameDev1\obj\Debug\GameDev1.csproj.CoreCompileInputs.cache
+C:\Users\202323\source\repos\GameDev1\GameDev1\obj\Debug\GameDev1.exe
+C:\Users\202323\source\repos\GameDev1\GameDev1\obj\Debug\GameDev1.pdb
+C:\Users\202323\Desktop\GameDevPr1\GameDev1\GameDev1\bin\Debug\GameDev1.exe.config
+C:\Users\202323\Desktop\GameDevPr1\GameDev1\GameDev1\bin\Debug\GameDev1.exe
+C:\Users\202323\Desktop\GameDevPr1\GameDev1\GameDev1\bin\Debug\GameDev1.pdb
+C:\Users\202323\Desktop\GameDevPr1\GameDev1\GameDev1\obj\Debug\GameDev1.csproj.AssemblyReference.cache
+C:\Users\202323\Desktop\GameDevPr1\GameDev1\GameDev1\obj\Debug\GameDev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\202323\Desktop\GameDevPr1\GameDev1\GameDev1\obj\Debug\GameDev1.csproj.CoreCompileInputs.cache
+C:\Users\202323\Desktop\GameDevPr1\GameDev1\GameDev1\obj\Debug\GameDev1.exe
+C:\Users\202323\Desktop\GameDevPr1\GameDev1\GameDev1\obj\Debug\GameDev1.pdb
