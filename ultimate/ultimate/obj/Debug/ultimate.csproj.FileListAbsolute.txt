@@ -1,0 +1,8 @@
+C:\Users\202323\source\repos\ultimate\ultimate\bin\Debug\ultimate.exe.config
+C:\Users\202323\source\repos\ultimate\ultimate\bin\Debug\ultimate.exe
+C:\Users\202323\source\repos\ultimate\ultimate\bin\Debug\ultimate.pdb
+C:\Users\202323\source\repos\ultimate\ultimate\obj\Debug\ultimate.csproj.AssemblyReference.cache
+C:\Users\202323\source\repos\ultimate\ultimate\obj\Debug\ultimate.csproj.SuggestedBindingRedirects.cache
+C:\Users\202323\source\repos\ultimate\ultimate\obj\Debug\ultimate.csproj.CoreCompileInputs.cache
+C:\Users\202323\source\repos\ultimate\ultimate\obj\Debug\ultimate.exe
+C:\Users\202323\source\repos\ultimate\ultimate\obj\Debug\ultimate.pdb
