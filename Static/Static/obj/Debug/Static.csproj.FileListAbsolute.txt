@@ -1,0 +1,8 @@
+C:\Users\202323\source\repos\Static\Static\bin\Debug\Static.exe.config
+C:\Users\202323\source\repos\Static\Static\bin\Debug\Static.exe
+C:\Users\202323\source\repos\Static\Static\bin\Debug\Static.pdb
+C:\Users\202323\source\repos\Static\Static\obj\Debug\Static.csproj.AssemblyReference.cache
+C:\Users\202323\source\repos\Static\Static\obj\Debug\Static.csproj.SuggestedBindingRedirects.cache
+C:\Users\202323\source\repos\Static\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\202323\source\repos\Static\Static\obj\Debug\Static.exe
+C:\Users\202323\source\repos\Static\Static\obj\Debug\Static.pdb
