@@ -1,0 +1,7 @@
+C:\Users\Ильназ\source\repos\Game_Snake\Game_Snake\bin\Debug\Game_Snake.exe.config
+C:\Users\Ильназ\source\repos\Game_Snake\Game_Snake\bin\Debug\Game_Snake.exe
+C:\Users\Ильназ\source\repos\Game_Snake\Game_Snake\bin\Debug\Game_Snake.pdb
+C:\Users\Ильназ\source\repos\Game_Snake\Game_Snake\obj\Debug\Game_Snake.csproj.AssemblyReference.cache
+C:\Users\Ильназ\source\repos\Game_Snake\Game_Snake\obj\Debug\Game_Snake.csproj.CoreCompileInputs.cache
+C:\Users\Ильназ\source\repos\Game_Snake\Game_Snake\obj\Debug\Game_Snake.exe
+C:\Users\Ильназ\source\repos\Game_Snake\Game_Snake\obj\Debug\Game_Snake.pdb
