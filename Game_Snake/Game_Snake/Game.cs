@@ -35,7 +35,7 @@ namespace Game_Snake
                 Draw();
                 Input();
                 Update();
-                Thread.Sleep(100); // пауза для управления скоростью игры
+                Thread.Sleep(100);
             }
 
             GameOver();
@@ -49,11 +49,11 @@ namespace Game_Snake
                 for (int x = 0; x < Width; x++)
                 {
                     if (x == 0 || x == Width - 1 || y == 0 || y == Height - 1)
-                        Console.Write("#"); // границы поля
+                        Console.Write("#");
                     else if (snake.Body.Exists(p => p.X == x && p.Y == y))
-                        Console.Write("0"); // тело змейки
+                        Console.Write("0");
                     else if (food.Position.X == x && food.Position.Y == y)
-                        Console.Write("*"); // еда
+                        Console.Write("*");
                     else
                         Console.Write(" ");
                 }

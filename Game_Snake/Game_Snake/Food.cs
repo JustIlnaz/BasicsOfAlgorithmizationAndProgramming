@@ -16,8 +16,8 @@ namespace Game_Snake
             int x, y;
             do
             {
-                x = rnd.Next(0, width);
-                y = rnd.Next(0, height);
+                x = rnd.Next(1, width - 1);
+                y = rnd.Next(1, height - 1);
             } while (snakeBody.Exists(p => p.X == x && p.Y == y));
 
             Position = new Position(x, y);
